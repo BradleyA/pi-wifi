@@ -1,5 +1,4 @@
-# %W% %G% %U%
-
+#### WARNING: These instructions are incomplete. Consider them as notes quickly drafted on a napkin rather than proper documentation!
 
 bluetooth raspberry-pi
 sudo apt-get update
