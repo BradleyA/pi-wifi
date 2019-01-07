@@ -1,6 +1,6 @@
 #### WARNING: These instructions are incomplete. Consider them as notes quickly drafted on a napkin rather than proper documentation!
 
-#### To watch futre updates in this repository select in the upper-right corner, the "Watch" list, and select Watching. 
+#### To watch future updates in this repository select in the upper-right corner, the "Watch" list, and select Watching. 
 
 bluetooth raspberry-pi
 sudo apt-get update
