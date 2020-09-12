@@ -1,17 +1,13 @@
 # pi-wifi 
-[![MIT License](http://img.shields.io/badge/License-MIT-red.png)](LICENSE)
-[<img alt="Clones" src="https://img.shields.io/static/v1?label=Clones&message=36&color=blue">](images/clone.table.md)
-[<img alt="Views" src="https://img.shields.io/static/v1?label=Views&message=112&color=blue">](images/view.table.md)
-
-[![GitHub Stable Release](https://img.shields.io/badge/Release-v2.2-blue.svg)](https://github.com/BradleyA/pi-wifi/releases/tag/v2.2)
+[![GitHub Stable Release](https://img.shields.io/badge/Release-0.2-blue.svg)](https://github.com/BradleyA/pi-wifi/releases/tag/0.2)
 ![GitHub Release Date](https://img.shields.io/github/release-date/BradleyA/pi-wifi?color=blue)
-[![GitHub Commits Since](https://img.shields.io/github/commits-since/BradleyA/pi-wifi/v2.2?color=orange)](https://github.com/BradleyA/pi-wifi/commits/)
+[![GitHub Commits Since](https://img.shields.io/github/commits-since/BradleyA/pi-wifi/0.2?color=orange)](https://github.com/BradleyA/pi-wifi/commits/)
 [![GitHub Last Commits](https://img.shields.io/github/last-commit/BradleyA/pi-wifi.svg)](https://github.com/BradleyA/pi-wifi/commits/)
 
 [![GitHub Open Issues](https://img.shields.io/github/issues/BradleyA/pi-wifi?color=purple)](https://github.com/BradleyA/pi-wifi/issues?q=is%3Aopen+is%3Aissue)
 [![GitHub Closed Issues](https://img.shields.io/github/issues-closed/BradleyA/pi-wifi?color=purple)](https://github.com/BradleyA/pi-wifi/issues?q=is%3Aclosed+is%3Aissue)
-[<img alt="GitHub Clones" src="https://img.shields.io/static/v1?label=Clones&message=190&color=blueviolet">](https://github.com/BradleyA/pi-wifi/blob/master/images/clone.table.md)
-[<img alt="GitHub Views" src="https://img.shields.io/static/v1?label=Views&message=3071&color=blueviolet">](https://github.com/BradleyA/pi-wifi/blob/master/images/view.table.md)
+[<img alt="GitHub Clones" src="https://img.shields.io/static/v1?label=Clones&message=36&color=blueviolet">](https://github.com/BradleyA/pi-wifi/blob/master/images/clone.table.md)
+[<img alt="GitHub Views" src="https://img.shields.io/static/v1?label=Views&message=112&color=blueviolet">](https://github.com/BradleyA/pi-wifi/blob/master/images/view.table.md)
 [![GitHub Size](https://img.shields.io/github/repo-size/BradleyA/pi-wifi.svg)](https://github.com/BradleyA/pi-wifi/)
 ![Written in Bash](https://img.shields.io/badge/written%20in-bash-blue.svg)
 [![MIT License](http://img.shields.io/badge/License-MIT-blue.png)](LICENSE)
@@ -19,7 +15,6 @@
 ----
   
 #### WARNING: These instructions are incomplete. Consider them as notes quickly drafted on a napkin rather than proper documentation!
-
 
 bluetooth raspberry-pi
 sudo apt-get update
