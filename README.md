@@ -7,7 +7,7 @@
 [![GitHub Open Issues](https://img.shields.io/github/issues/BradleyA/pi-wifi?color=purple)](https://github.com/BradleyA/pi-wifi/issues?q=is%3Aopen+is%3Aissue)
 [![GitHub Closed Issues](https://img.shields.io/github/issues-closed/BradleyA/pi-wifi?color=purple)](https://github.com/BradleyA/pi-wifi/issues?q=is%3Aclosed+is%3Aissue)
 [<img alt="GitHub Clones" src="https://img.shields.io/static/v1?label=Clones&message=56&color=blueviolet">](https://github.com/BradleyA/pi-wifi/blob/master/images/clone.table.md)
-[<img alt="GitHub Views" src="https://img.shields.io/static/v1?label=Views&message=112&color=blueviolet">](https://github.com/BradleyA/pi-wifi/blob/master/images/view.table.md)
+[<img alt="GitHub Views" src="https://img.shields.io/static/v1?label=Views&message=145&color=blueviolet">](https://github.com/BradleyA/pi-wifi/blob/master/images/view.table.md)
 [![GitHub Size](https://img.shields.io/github/repo-size/BradleyA/pi-wifi.svg)](https://github.com/BradleyA/pi-wifi/)
 ![Language Bash](https://img.shields.io/badge/%20Language-bash-blue.svg)
 [![MIT License](http://img.shields.io/badge/License-MIT-blue.png)](LICENSE)
