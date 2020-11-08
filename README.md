@@ -28,8 +28,8 @@ sudo pip install pybluez
 pybluez                 git clone https://github.com/karulis/pybluez.git
 magpi-issue47           https://www.raspberrypi.org/magpi/create-a-raspberry-pi-3-bluetooth-tag/
 
-## Install
-To install, change to the location you want to download the scripts. Use git to pull or clone these scripts into the directory. If you do not have git then enter; "sudo apt-get install git" if using Ubuntu. On the github page of this script use the "HTTPS clone URL" with the 'git clone' command.
+## Clone
+To Install, change into a directory that you want to download the scripts. Use git to pull or clone these scripts into the directory. If you do not have Git installed then enter; "sudo apt-get install git" if using Debian/Ubuntu. Other Linux distribution install methods can be found here: https://git-scm.com/download/linux. On the GitHub page of this script use the "HTTPS clone URL" with the 'git clone' command.
 
     git clone https://github.com/BradleyA/pi-wifi
     cd pi-wifi
