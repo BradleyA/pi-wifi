@@ -20,6 +20,8 @@
 #### WARNING: These instructions are incomplete. Consider them as notes quickly drafted on a napkin rather than proper documentation!
 <img id="Construction" src="images/construction-icon.gif" width="120">
 
+#### If you like this repository, select in the upper-right corner, [![GitHub stars](https://img.shields.io/github/stars/BradleyA/pi-wifi.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/BradleyA/pi-wifi/stargazers/), thank you.
+
 bluetooth raspberry-pi
 sudo apt-get update
 sudo apt-get install python-pip python-dev ipython
