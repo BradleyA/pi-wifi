@@ -18,6 +18,7 @@
 ----
   
 #### WARNING: These instructions are incomplete. Consider them as notes quickly drafted on a napkin rather than proper documentation!
+<img id="Construction" src="images/construction-icon.gif" width="120">
 
 bluetooth raspberry-pi
 sudo apt-get update
