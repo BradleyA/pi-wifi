@@ -54,6 +54,16 @@ Please do contribute!  Issues and pull requests are welcome.  Thank you for your
 
 [Return to top](https://github.com/BradleyA/pi-wifi/blob/master/README.md#pi-wifi--)
 
+#### Stars
+[![Stargazers repo roster for @BradleyA/pi-wifi](https://reporoster.com/stars/BradleyA/pi-wifi)](https://github.com/BradleyA/pi-wifi/stargazers)
+
+[Return to top](https://github.com/BradleyA/pi-wifi/blob/master/README.md#pi-wifi)
+
+#### Forks
+[![Forkers repo roster for @BradleyA/pi-wifi](https://reporoster.com/forks/BradleyA/pi-wifi)](https://github.com/BradleyA/pi-wifi/network/members)
+
+[Return to top](https://github.com/BradleyA/pi-wifi/blob/master/README.md#pi-wifi)
+
 #### Tested OS
  * Ubuntu 14.04.6 LTS (amd64,armv7l)
  * Ubuntu 16.04.7 LTS (amd64,armv7l)
